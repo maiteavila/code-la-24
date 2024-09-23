@@ -27,7 +27,7 @@ if size1 != size2:
 # Blend images
 blended_img = Image.blend(img1,img2,0.5)
 
-# Save the blended image'
+# Save the blended image
 new_filename = "blended-" + filename1
 blended_img.save(new_filename)
 
