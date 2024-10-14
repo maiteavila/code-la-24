@@ -1,0 +1,8 @@
+Think about a question you might want to ask using some of these methods. It can be related to another class - something you're reading, or writing, or another project you might be investigating that could perhaps benefit from this kind of quantitative algorithmic analysis. Describe yout thinking behind this question. What kind of data would you work with if you were going to investigate this question? Put your thoughts in comments at the bottom of your homework file. Consider working with this as your Unit 2 project.
+
+    Doing part 1 of the assignment made me curious about what the most popular words in different musicians discographies are or even how many x syllable words are in their discographies. How have these evolved throughout their careers, etc. 
+
+    I think this could be done by downloading the lyrics to x artist discography and running it through a similar algorithm.
+
+
+
