@@ -1,0 +1,9 @@
+For my Unit 2 project, I will:
+
+1.  Scrape Taylor Swift lyrics from her debut album Taylor Swift (2006) and her most recent album The Tortured Poets Department (2024) 
+
+2. Manually clean up the text files. 
+
+3. Use markovify to generate a new song for each album, to compare. 
+
+4. Use additional code to compare the words, themes, etc. from each album to compare Swift's lyrical evolution.
